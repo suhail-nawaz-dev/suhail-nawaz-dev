@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhail Nawaz</h1>
 <h3 align="center">A passionate Ai Developer from India</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0LC8O_KZ2YuCemRryPVXU8&ust=1716111143901000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDE5a3yloYDFQAAAAAdAAAAABAR" alt="Coding Gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhail-nawaz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="suhail-nawaz-dev" /> </p>
